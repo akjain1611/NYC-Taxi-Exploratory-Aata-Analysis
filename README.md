@@ -10,7 +10,7 @@ This project performs large-scale Exploratory Data Analysis (EDA) on NYC Yellow 
 4. Passenger behavior
 5. Zone-wise taxi activity
 6. Pricing and tipping patterns
-7. 
+
 The analysis was performed using Python, Pandas, Matplotlib, Seaborn, and GeoPandas on sampled NYC taxi datasets.
 
 **Key Insights**
