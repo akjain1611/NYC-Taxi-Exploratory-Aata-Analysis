@@ -59,8 +59,4 @@ The analysis was performed using Python, Pandas, Matplotlib, Seaborn, and GeoPan
 1. Notebook: EDA_NYC_Taxi_Analysis.ipynb
 2. Report: NYC_Taxi_Analysis_Report.pdf
 
-**Author**
-Akshat Jain
-Lead Software Engineer
-Full Stack .NET Developer
-Data Analytics Enthusiast
+**Author :** Akshat Jain
