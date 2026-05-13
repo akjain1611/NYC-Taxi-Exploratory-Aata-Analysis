@@ -22,21 +22,6 @@ The analysis was performed using Python, Pandas, Matplotlib, Seaborn, and GeoPan
 5. Fare amount strongly correlates with trip distance.
 6. Weekend travel shows higher group passenger behavior.
 
-**Technologies Used**
-
-1. Python
-2. Pandas
-3. NumPy
-4. Matplotlib
-5. Seaborn
-6. GeoPandas
-7. Jupyter Notebook
-
-**Project Structure**
-
-notebooks/   -> Jupyter notebook
-reports/     -> Final PDF report
-
 **Visualizations Included**
 
 1. Hourly pickup trends
@@ -54,10 +39,25 @@ reports/     -> Final PDF report
 4. Time-aware pricing strategy
 5. Demand-based cab positioning
 
+**Technologies Used**
+
+1. Python
+2. Pandas
+3. NumPy
+4. Matplotlib
+5. Seaborn
+6. GeoPandas
+7. Jupyter Notebook
+
+**Project Structure**
+
+1. notebooks/   -> Jupyter notebook
+2. reports/     -> Final PDF report
+
 **Files**
 
-Notebook: EDA_NYC_Taxi_Analysis.ipynb
-Report: NYC_Taxi_Analysis_Report.pdf
+1. Notebook: EDA_NYC_Taxi_Analysis.ipynb
+2. Report: NYC_Taxi_Analysis_Report.pdf
 
 **Author**
 Akshat Jain
